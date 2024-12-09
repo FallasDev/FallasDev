@@ -5,8 +5,8 @@ I'm a Business Informatics student at the University of Costa Rica with a passio
 ---
 
 ### 🔥 Projects
-- **Nasatube**: A nasa youtube with integration Api | [Repo](https://github.com/yourusername/cine-star)
-- **News App**: A news blog, where intregate a clean arquitecture | [Repo](https://github.com/yourusername/exercise-tracker)
+- **Nasatube**: A nasa youtube with integration Api | [Repo](https://github.com/FallasDev/NASATUBE)
+- **News App**: A news blog, where intregate a clean arquitecture | [Repo](https://github.com/FallasDev/NewsApp)
 
 ---
 

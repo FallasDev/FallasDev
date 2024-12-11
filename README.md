@@ -23,7 +23,7 @@ I'm a Business Informatics student at the University of Costa Rica with a passio
 ---
 
 ### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&style=flat-square)]((https://www.linkedin.com/in/sebas-fallas-33ba81256/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/sebas-fallas-33ba81256/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=portfolio&logoColor=white&style=flat-square)](https://yourwebsite.com)
 
 ---

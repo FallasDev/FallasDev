@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sebastián Fallas
 
-I'm a Business Informatics student at the University of Costa Rica with a passion for technology and programming. Currently working on full-stack skills by diving into Spring Boot for backend development.
+I'm a Business Informatics student at the University of Costa Rica with a passion for technology and programming. Currently working on full-stack skills by diving into Python with Flask for backend development.
 
 ---
 

@@ -12,12 +12,12 @@ I'm a Business Informatics student at the University of Costa Rica with a passio
 ### 💻 Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white&style=flat-square)
+![Flask](https://img.shields.io/badge/-Flask-6DB33F?logo=flask&logoColor=white&style=flat-square)
 
 ---
 
 ### 🚀 Currently Working On
-- Spring Boot for backend development
+- Flask for backend development
 - Building a language learning system
 
 ---
